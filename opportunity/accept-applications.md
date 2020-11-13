@@ -13,7 +13,7 @@ When the toggle button is “on”, the opportunity is open and accepting applic
 
 When the toggle button is “off”, the opportunity is not open or accepting applications. The applicant will not see the **Apply** button. 
 
-## How can I stop accepting applications?
+### How can I stop accepting applications?
 You can turn the toggle button on or off, if you’re the person who created the opportunity (and you’re signed in).  
 When you create an opportunity and post it, the toggle button will automatically be turned “on”. The opportunity is open and accepting applications.
 
